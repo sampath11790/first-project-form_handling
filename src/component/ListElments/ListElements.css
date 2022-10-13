@@ -1,0 +1,18 @@
+.List-Element{
+       
+        display: flex;
+        padding: .5rem 2rem;
+        background-color: whitesmoke;
+        border: 1px solid rgb(11, 9, 9);
+        border-radius: 0.5rem;
+        text-align: center;
+        margin: .3rem auto;
+        box-shadow: 0 2px 12px rgba(98, 183, 232, 0.2);
+        width: 55%;
+        font-weight: bold;
+        color: rgb(2, 30, 30);
+
+        
+        
+    
+}

@@ -1,0 +1,28 @@
+.User-input{
+    width: 30rem;
+  max-width: 90%;
+  margin: 3rem auto;
+  padding: 2rem;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+  background-color: rgb(19, 36, 66);
+}
+.form input{
+    box-shadow: 0 2px 12px rgba(14, 15, 20, 0.2);
+    width: 90%;
+    border-radius: .5rem;
+    padding: .5rem;
+}
+.form {
+    box-shadow: 0 2px 12px rgba(202, 171, 210, 0);
+}
+.form button{
+    width: 50%;
+    background-color: rgb(230, 17, 191);
+    border-radius: 5px;
+    color: aliceblue;
+    padding: .3rem;
+}
+.form label{
+color: azure;
+}
